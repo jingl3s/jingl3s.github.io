@@ -14,7 +14,7 @@ Il va y avoir beaucoup de renvoit a des project Git mais certains projets
 
 Ordre du plus récent au plus ancien
 
-[Licence](./LICENSE.md)
+[Licence](./license.html)
 
 ## Sous sections
 
