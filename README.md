@@ -10,9 +10,7 @@ __Sujets__
 * Lego
 * Tout autre activité de bricolage ou de construction avec mon fils
 
-Il va y avoir beaucoup de renvoit a des project Git mais certains projets
-
-Ordre du plus récent au plus ancien
+Il va y avoir beaucoup de renvoit a des project Git mais certains projets internes petits seront visibles directement.
 
 [Licence](./license.html)
 
