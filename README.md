@@ -14,6 +14,16 @@ Il va y avoir beaucoup de renvoit a des project Git mais certains projets
 
 Ordre du plus récent au plus ancien
 
+[Licence](LICENCE)
+
+## Sous sections
+
+[Section famille](./enfant_famille/README.md)
+
+[Developpeur logiciel](./developer/README.md)
+
+[Bricolage](./bricolage/README.md)
+
 ## 2021
 
 [Raspberry Pi sensors (AM2301, DHT11, DS18B20)](https://github.com/jingl3s/raspberry_pi_sensors)
