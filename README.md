@@ -16,18 +16,10 @@ Ordre du plus récent au plus ancien
 
 [Licence](./license.html)
 
-## Sous sections
+## Sections
 
 [Section famille](./enfant_famille/README.md)
 
 [Developpeur logiciel](./developer/README.md)
 
 [Bricolage](./bricolage/README.md)
-
-## 2021
-
-[Raspberry Pi sensors (AM2301, DHT11, DS18B20)](https://github.com/jingl3s/raspberry_pi_sensors)
-
-[Raspberry Pi et AM2301](https://github.com/jingl3s/raspberry_pi_DHT21-AM2301/blob/master/README.md)
-
-[Lecture Oximètre Nonin](https://github.com/jingl3s/NoninPulseOx)
