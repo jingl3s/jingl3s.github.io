@@ -13,3 +13,6 @@
     * Lancer le chrome controller
     * Ouvrir chrome://inspect
     * Dans configure ajouter 192.168.254.196:9222 ou l'adresse IP du navigateur a controller
+* [Numérique responsable](./numerique_responsable/README.md)
+* Podcasts
+  * [Python en anglais](https://ayushirawat.com/best-podcasts-for-python)
