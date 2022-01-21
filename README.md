@@ -21,3 +21,7 @@ Il va y avoir beaucoup de renvoit a des project Git mais certains projets intern
 [Developpeur logiciel](./developer/README.md)
 
 [Bricolage](./bricolage/README.md)
+
+
+Inspiration pour blog mode simple
+https://github.com/boralyl/boralyl.github.io
