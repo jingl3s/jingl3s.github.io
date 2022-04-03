@@ -15,10 +15,13 @@
     * Dans configure ajouter 192.168.254.196:9222 ou l'adresse IP du navigateur a controller
 * [Numérique responsable](./numerique_responsable/README.md)
 * [Python](./python.md)
-* Infonuagigue / Cloud computing
+* Infonuagique / Cloud computing
   *  [5 good reasons not to get AWS certified](https://cloudonaut.io/5-good-reasons-not-to-get-aws-certified/)
     * Stay away from the race to the bottom
     * Showcase your skills with your work instead of a certificate
     * Be unique, define your own curriculum
     * Learning by doing is much more effective than memorizing answers
     * Avoid marketing nonsense by learning from independents
+* Bureau debout
+  * Système étagère à poser sur bureau https://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps
+  
