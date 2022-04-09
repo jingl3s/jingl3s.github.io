@@ -24,4 +24,8 @@
     * Avoid marketing nonsense by learning from independents
 * Bureau debout
   * Système étagère à poser sur bureau https://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps
-  
+
+## Android
+
+* [Android AmazFit Band 5 automatisation sync](./20220408_android_amazfit_automatisation.md)
+
