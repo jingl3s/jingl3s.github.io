@@ -15,15 +15,26 @@ categories:
 ## Sécurité we
 
 * Burp Suite (pour intercepter des requêtes web) https://portswigger.net/burp/communitydownload
-* CyberChef (un outil web base pour décoder toutes sortes de données) https://gchq.github.io/CyberChef/
+* CyberChef (un outil web base pour décoder toutes sortes de données) [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 * Nmap pour scanner les ports ouverts (https://nmap.org/) 
 * SQLMap pour automatiser des injections SQL (https://sqlmap.org/)
+* Decodage [www.dcode.fr](www.dcode.fr)
 
 ## Reverse engineering
 * Ghidra https://ghidra-sre.org/
 * IDA Free https://hex-rays.com/ida-free/
 * X64dbg sur windows
 * GDB avec le plugin GEF sur Linux https://github.com/hugsy/gef
+
+* Recherche de chaines dans un fichier
+  * strings -n 7 kitty.jpeg
+  * identify -verbose kitty.jpeg
+* base64 decode en ligne de commande dans linux
+  * base64 -d
+
+* Pulseview logic analyseur
+* Convert hexa to text
+  * xxd -r -p dump.hex
 
 ## Pratiquer légalement
 
