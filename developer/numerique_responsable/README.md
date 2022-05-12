@@ -30,3 +30,11 @@ Il s'agit plus que d'un tendance, il s'agit d'un enjeux majeur si nous voulons a
 
 * [Youtube en anglais sur sustainable software engenering](https://www.youtube.com/results?search_query=sustainable+software+engineering+canada)
   
+
+### Système d'exploitation
+
+#### GNU/Linux
+
+* Moniteurs de batterie https://linuxhint.com/monitor_optimize_power_usage/
+* Equivalence consommation électriques avec les processus https://www.xmodulo.com/how-to-monitor-power-usage-in-linux.html
+

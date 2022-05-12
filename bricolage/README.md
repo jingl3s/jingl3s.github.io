@@ -30,3 +30,5 @@ Section of different creations builds
       * [Autre remplacement](https://www.youtube.com/watch?v=nvpNliFIuN4)
     * [Démontage de batterie utile pour aider a la recherche](https://www.youtube.com/watch?v=Fl6r9Fb873M)
     * [Astuce en deconnectant tout](https://www.youtube.com/watch?v=G0eZJ9IeWr0)
+
+* USB réveil équipement https://askubuntu.com/questions/848698/wake-up-from-suspend-using-wireless-usb-keyboard-or-mouse-for-any-linux-distro

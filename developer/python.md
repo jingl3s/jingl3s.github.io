@@ -20,6 +20,14 @@ source : https://www.techiediaries.com/vscode-automatically-organize-python-impo
 }
 ```
 
+
+## Avancé
+
+### Gestion mémoire
+
+* Méthodes python https://medium.com/survata-engineering-blog/monitoring-memory-usage-of-a-running-python-program-49f027e3d1ba
+* Navigateur moniteur mémoire https://developer.chrome.com/docs/devtools/memory-problems/
+
 ## Regles codage
 
 ### Linter

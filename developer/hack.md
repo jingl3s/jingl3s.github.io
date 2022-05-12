@@ -12,7 +12,7 @@ categories:
 ---
 # Hack logiciel
 
-## Sécurité we
+## Sécurité
 
 * Burp Suite (pour intercepter des requêtes web) https://portswigger.net/burp/communitydownload
 * CyberChef (un outil web base pour décoder toutes sortes de données) https://gchq.github.io/CyberChef/
@@ -29,6 +29,21 @@ categories:
 
 * https://ringzer0ctf.com/home (en particulier les challenges web & injections SQL)
 * https://www.root-me.org/ (pour pratiquer le reverse engineering et autre)
+
+## Autres
+
+* Stéganographie
+  * https://0xrick.github.io/lists/stego/
+  * Crack le mot de passe https://github.com/RickdeJager/stegseek
+  * Example https://ctftime.org/writeup/25391
+
+* outils étranges
+ * Identification automatique mais pas encore utilisé https://github.com/bee-san/pyWhat
+* Astuces lignes de commande pour conversion https://github.com/alirezaomidi/ctf/tree/master/ringzer0team/steganography/hidden-in-plain-sight
+
+
+* Liste d'outils https://blog.lumen.com/8-ways-to-succeed-in-your-first-capture-the-flag-ctf/
+
 
 ## CTF
 
