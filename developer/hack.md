@@ -56,6 +56,7 @@ categories:
   * https://0xrick.github.io/lists/stego/
   * Crack le mot de passe https://github.com/RickdeJager/stegseek
   * Example https://ctftime.org/writeup/25391
+  * Cacher une image dans une image [https://www.avestura.dev/blog/hide-a-photo-inside-another-photo](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo)
 
 * outils étranges
  * Identification automatique mais pas encore utilisé https://github.com/bee-san/pyWhat
