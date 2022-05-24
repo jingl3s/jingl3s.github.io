@@ -46,6 +46,7 @@ categories:
 * Ghidra permet de faire une analyse de code si fichier elf dispo sinon Rom car il permet de decompiler avec une vue en langage C
 * Un plugin ghidra permet de decompiler une rom N64
   * [https://github.com/zeroKilo/N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV)
+* CTF NorthSec 2022 [https://github.com/wernerburat/ctf-writeups/blob/main/_2022/NorthSec%202022/The%20Legend%20of%20Shiitakoin%20Early%20Access/writeup.md](https://github.com/wernerburat/ctf-writeups/blob/main/_2022/NorthSec%202022/The%20Legend%20of%20Shiitakoin%20Early%20Access/writeup.md)
 
 ## Circuits logiques
 
