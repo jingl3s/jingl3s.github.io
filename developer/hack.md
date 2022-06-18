@@ -22,6 +22,9 @@ categories:
 * Decodage [www.dcode.fr](www.dcode.fr)
 
 ## Reverse engineering
+
+### Outils reverse engenering
+
 * Ghidra https://ghidra-sre.org/
 * IDA Free https://hex-rays.com/ida-free/
 * X64dbg sur windows
@@ -32,6 +35,20 @@ categories:
   * identify -verbose kitty.jpeg
 * base64 decode en ligne de commande dans linux
   * base64 -d
+
+### Emulation jeux videos
+
+#### N64
+* Emulateur avec fonction de debug est Project 64
+  * [https://hack64.net/docs/pj64d/](https://hack64.net/docs/pj64d/)
+  * [https://www.retroreversing.com/n64-decompiling](https://www.retroreversing.com/n64-decompiling)
+  * Ne pas oublier d'utiliser la sauvegarde et restauration d'etat pour accelerer les debug
+* Ghidra permet de faire une analyse de code si fichier elf dispo sinon Rom car il permet de decompiler avec une vue en langage C
+* Un plugin ghidra permet de decompiler une rom N64
+  * [https://github.com/zeroKilo/N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV)
+* CTF NorthSec 2022 [https://github.com/wernerburat/ctf-writeups/blob/main/_2022/NorthSec%202022/The%20Legend%20of%20Shiitakoin%20Early%20Access/writeup.md](https://github.com/wernerburat/ctf-writeups/blob/main/_2022/NorthSec%202022/The%20Legend%20of%20Shiitakoin%20Early%20Access/writeup.md)
+
+## Circuits logiques
 
 * Pulseview logic analyseur
   * Choose channels
