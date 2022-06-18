@@ -2,6 +2,18 @@ theme: jekyll-theme-hacker
 title: Les ressources de Jingl3s
 description: Du contenu en tout genre avec l'information ou non sans se prendre la tete
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      related: true
+
 menu:
   main:
   - identifier: homee

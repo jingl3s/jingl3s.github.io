@@ -17,11 +17,17 @@
     * Lancer le chrome controller
     * Ouvrir chrome://inspect
     * Dans configure ajouter 192.168.254.196:9222 ou l'adresse IP du navigateur a controller
+  * VSCode remote
+    * [https://github.com/microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
+      * Permet également de formatter du code minifié "Pretty print minified"
+    * ms-vscode.js-debug-companion
+      * Permet de prendre la main sur le navigateur
+    
 * Firefox formatter du code JS dans la console https://firefox-source-docs.mozilla.org/devtools-user/debugger/how_to/pretty-print_a_minified_file/index.html
 
-## Sous sections
-* [Numérique responsable](./numerique_responsable/README.md)
-* [Python](./python.md)
+## Infonuagique / Cloud Computing
+
+### General
 
 * Infonuagique / Cloud computing
   *  [5 good reasons not to get AWS certified](https://cloudonaut.io/5-good-reasons-not-to-get-aws-certified/)
@@ -30,6 +36,23 @@
     * Be unique, define your own curriculum
     * Learning by doing is much more effective than memorizing answers
     * Avoid marketing nonsense by learning from independents
+
+### AWS
+
+#### Flux RSS
+
+    https://aws.amazon.com/blogs/aws/feed/
+    https://cloudonaut.io/feed/rss.xml
+    
+#### Podcasts
+
+    https://aws.amazon.com/fr/podcasts/aws-podcast/?podcast-list.sort-by=item.additionalFields.EpisodeNum&podcast-list.sort-order=desc&awsf.episode-type=*all&awsf.tech-category-filter=*all&awsf.product-filter=*all&awsf.industry-filter=*all
+    https://aws.amazon.com/fr/podcasts/aws-techchat/
+
+## Sous sections
+* [Numérique responsable](./numerique_responsable/README.md)
+* [Python](./python.md)
+
 * Bureau debout
   * Système étagère à poser sur bureau https://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps
 * 
@@ -40,3 +63,9 @@
 
 * Afficher l'écran sur l'ordinateur https://github.com/Genymobile/scrcpy
 * Faire un VPN en utilisant l'ordinateur en tant que pont pour la connexion internet plutôt que le Wifi https://github.com/Genymobile/gnirehtet
+
+## Astuces
+
+* RSS YouTube
+  https://www.ghacks.net/2022/08/01/how-to-subscribe-to-youtube-rss-feeds-without-third-party-services/
+  URL a utiliser https://www.youtube.com/feeds/videos.xml?channel_id=CHANNELID
