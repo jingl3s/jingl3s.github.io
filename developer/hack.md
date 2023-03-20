@@ -20,6 +20,9 @@ categories:
 * Nmap pour scanner les ports ouverts (https://nmap.org/) 
 * SQLMap pour automatiser des injections SQL (https://sqlmap.org/)
 * Decodage [www.dcode.fr](www.dcode.fr)
+  * Reverse Javascript obfuscated
+* Deobfuscate Javascript https://deobfuscate.relative.im/
+* Rendre plus beau du code JS http://jsnice.org/
 
 ## Reverse engineering
 
@@ -88,3 +91,62 @@ categories:
 * Des histoires (et du code) de CTF précédent:
   * https://github.com/UnitedCTF/UnitedCTF-2020
   * https://github.com/UnitedCTF/UnitedCTF-2021
+
+
+## Mes notes
+
+### Paquets réseaux
+
+* Wireshark
+  * Ouvrir un Pcap et voir s'il y a une information qui se suit avec tous les message
+    * Menu Analyser > Suivre > Flux TCP ou anglais Follow, TCP stream
+
+### Web
+
+* Javascript et programme
+
+Browser-Less and Server-Less hints
+  Trying to reverse the JavaScript is a waste of time (sorry not sorry)!
+  Running the HTML file in Firefox with a reverse proxy (such as https://portswigger.net/burp/communitydownload) will show:
+
+    ```
+    POST / HTTP/1.1
+    Host: less.nsec-warmup.workers.dev
+    ```
+
+  with the response
+
+    ```
+    HTTP/1.1 405 Method Not Allowed
+    Content-Length: 0
+    Connection: close
+    Access-Control-Allow-Origin: null
+    Access-Control-Allow-Credentials: true
+    Access-Control-Allow-Methods: POST, OPTIONS
+    ```
+
+  Utilisation de Firefox pour test OPTIONS et POST par modification requête avant de la renvoyer
+  Ensuite utilisation de curl par copie de la commande depuis FF
+  Modification de la commande pour envoyer un curl vide
+
+
+    ```shell
+    curl 'https://less.nsec-warmup.workers.dev/' -X PUT  -H 'User-Agent:' -H 'Accept:'
+    ```
+
+
+### Photos
+
+* face recognition en python permet de faire de la detection de visage et de la recherche par rapport a un dossier
+
+### Reseau
+
+* Nmap pour scan les serveur
+```shell
+nmap -sP 10.127.0.1/30 -v
+nmap -sT 10.127.0.1/30 -p 12233
+```
+
+* Open VPN sur reseau non securise
+sudo openvpn --auth none --dev tun --ifconfig 10.127.0.2 10.127.0.1  --remote 147.182.156.93 15027
+ * Le ifconfig était affiche dans la console quand le parametre n'est pas affiché

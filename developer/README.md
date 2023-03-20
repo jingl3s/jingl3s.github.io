@@ -52,6 +52,8 @@
 ## Sous sections
 * [Numérique responsable](./numerique_responsable/README.md)
 * [Python](./python.md)
+* [Hacks](./hack.md)
+
 
 * Bureau debout
   * Système étagère à poser sur bureau https://nickjanetakis.com/blog/build-a-home-made-standing-desk-for-50-dollars-in-10-easy-steps

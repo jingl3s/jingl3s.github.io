@@ -32,6 +32,14 @@ Section of different creations builds
     * [Astuce en déconnectant tout](https://www.youtube.com/watch?v=G0eZJ9IeWr0)
 
 * USB réveil équipement https://askubuntu.com/questions/848698/wake-up-from-suspend-using-wireless-usb-keyboard-or-mouse-for-any-linux-distro
+* Investigation imprimante Brother
+  * Astuces
+    * Ne pas utiliser un tournevis pour essayer de déboucher le départ des impressions: Risque de perçage du tuyau
+    * Utiliser un quitte seringue de Aliexpress pour y mettre de l'eau chaude et un chiffon sous la tète de sortie
+    * Instruction démontage : https://fr.ifixit.com/Tutoriel/MFC-J4410DW+Flushing+Box+Replacement/125058?lang=en
+    * Menus caché Brother : https://www.youtube.com/watch?v=P-pXJTtlkFM
+    * Comment sen sortir https://www.inkmagic.com/shopcontent.asp?type=Unclog_Brother_Inkjet_Printhead_Nozzles
+
 
 ## Outils
 

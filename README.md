@@ -25,3 +25,8 @@ Il va y avoir beaucoup de renvoit a des project Git mais certains projets intern
 
 Inspiration pour blog mode simple
 https://github.com/boralyl/boralyl.github.io
+
+
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}
