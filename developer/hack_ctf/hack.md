@@ -32,12 +32,15 @@ categories:
 * IDA Free https://hex-rays.com/ida-free/
 * X64dbg sur windows
 * GDB avec le plugin GEF sur Linux https://github.com/hugsy/gef
+* Java decompiler https://wiki.archlinux.org/title/Java#Decompilers
 
 * Recherche de chaines dans un fichier
   * strings -n 7 kitty.jpeg
   * identify -verbose kitty.jpeg
 * base64 decode en ligne de commande dans linux
   * base64 -d
+* Verification si fichiers cachés dans un fichier
+  * binwalk https://allabouttesting.org/short-tutorial-firmware-analysis-tool-binwalk/
 
 ### Emulation jeux videos
 
@@ -65,6 +68,7 @@ categories:
 * Convert hexa to text
   * xxd -r -p dump.hex
 
+
 ## Pratiquer légalement
 
 * https://ringzer0ctf.com/home (en particulier les challenges web & injections SQL)
@@ -91,6 +95,10 @@ categories:
 * Des histoires (et du code) de CTF précédent:
   * https://github.com/UnitedCTF/UnitedCTF-2020
   * https://github.com/UnitedCTF/UnitedCTF-2021
+
+* Solutions passées utiles
+  * https://nsec.io/competition-write-ups/
+  * https://lolkatz.github.io/will-hack-for-coffee/2022/05/28/northsec-hackademy.html#automatization
 
 
 ## Mes notes
@@ -150,3 +158,7 @@ nmap -sT 10.127.0.1/30 -p 12233
 * Open VPN sur reseau non securise
 sudo openvpn --auth none --dev tun --ifconfig 10.127.0.2 10.127.0.1  --remote 147.182.156.93 15027
  * Le ifconfig était affiche dans la console quand le parametre n'est pas affiché
+
+### Badges et cartes
+
+* ESP 32 https://olof-astrand.medium.com/reverse-engineering-of-esp32-flash-dumps-with-ghidra-or-ida-pro-8c7c58871e68
